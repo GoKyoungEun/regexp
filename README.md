@@ -26,14 +26,14 @@ new RegExp("[a-z]", "gi") /
 
 ## 예제문자
 
-```js
+```
 const str = `
 010-1234-5678
 abc1234@gmail.com
 http://www.omdbapi.com/?apikey=7035c60c&s=frozen
 The quick brown fox jumps over the lazy dog.
 aabbccdddd
-`;
+`
 ```
 
 ## 메소드
